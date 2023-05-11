@@ -1,0 +1,18 @@
+Q3. EXPLAIN TYPES OF SOFTWARE...                                                                                                                                                                           
+
+There Is Three Types Of Software
+
+1. System Software
+System Software Works As Operating System For Ex. macOS, IOS, Android, Windows, Linux
+
+2. Application Software
+There Is Three Types Of Application Software
+  1) Web Application
+     Ex. Mozila Firefox, Google Chrome,
+  2) Mobile Application
+     Ex. instagram, Whatsapp
+  3) Desktop Application
+     Ex. Notepad, Paint
+
+3. Programming Application
+ Programing Application Used For Make A Program.. Programming Application Also Konwn As COMPILER
