@@ -1,0 +1,25 @@
+SDLC Means Software Developement Life Cycle.. It's Work In Six Steps..
+
+1. Requirement Gethering.. 
+
+The need of the customer has to be understood. What type of requirement is there in customer software? What kind of software do you make?
+
+2. Analysis
+
+Analysis Means One Kind Of The Market Survey..According to the needs of the customer, what is going on in the market and how it works.. such a survey is done in the market. It is called Analysis
+
+3. Design
+
+Designing is made according to the requirement of the customer.
+
+4.implementation
+
+implementation means to start coding..
+
+5. Testing
+
+After the software is built, testing is done by the testing team. There is no bug or error of any kind and it is tested
+
+6.maintenance
+
+Updating the software is called maintenance
